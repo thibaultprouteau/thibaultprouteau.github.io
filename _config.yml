@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Thibault Prouteau"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Le Mans"
-  employer         : "LIUM"
+  employer         : #"LIUM"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=IHcD7JQAAAAJ"
   email            : "thibault.prouteau@univ-lemans.fr"
