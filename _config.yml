@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Thibault Prouteau"
-  avatar           : "profile.JPG"
+  avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Le Mans"
   employer         : #"LIUM"
