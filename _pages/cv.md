@@ -97,7 +97,4 @@ Projects
 
 * Usability study, 2017
 	* Usability engineering study at the usability laboratory of HAW Hamburg for Novomind AG.
-<!---Service and leadership
-======
-* Currently signed in to 43 different slack teams
---->
+
