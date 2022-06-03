@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorials"
 permalink: /teaching/algo-prog
 venue: "Le Mans Université, UFR Sciences & Techinques"
-date: 2015-01-01
+date: 2020
 location: "Le Mans, France"
 ---
 
