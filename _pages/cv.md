@@ -20,21 +20,21 @@ Education
 
 Research experience
 ======
-* 2020-2023 PhD Candidate and Teacher Assistant
- * Université du Mans
- * Sparse and interpretable embeddings methods based on graphs
+* PhD Candidate and Teacher Assistant 2020-2023 (expected)
+	* Université du Mans
+	* Sparse and interpretable embeddings methods based on graphs
 
-* January - July 2020 (Internship)
+* Research Intern January - July 2020
   * Université du Mans
   * Graph-based word embedding methods
   * Supervisor: Nicolas Dugué
  
-* April - July 2019 (Internship)
+* Research Intern April - July 2019
   * Université du Mans
   * Unsupervised keyword extraction from document of the _SNCF_ prescript
   * Supervisor: Nicolas Dugué
  
-* April - August 2018 (Internship)
+* Business Intelligence Intern April - August 2018
   * Ambacia Consulting
   * Build data analysis dashboards from Insurrance Company data
 
