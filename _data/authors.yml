@@ -3,12 +3,12 @@
 Thibault Prouteau:
   name             : "Thibault Prouteau"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
-  location         : "Le Mans"
-  employer         : #"LIUM"
+  bio              : "Postdoctoral fellow @ LORIA (CNRS). I work on interpretable representations in NLP and complex networks."#"Your biography for the left-hand sidebar"
+  location         : "Nancy, France"
+  employer         : "CNRS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=IHcD7JQAAAAJ"
-  email            : "thibault.prouteau@univ-lemans.fr"
+  email            : "thibault.prouteau AT loria DOT fr"
   researchgate     : "https://www.researchgate.net/profile/Thibault_Prouteau"
   uri              :
   bitbucket        :

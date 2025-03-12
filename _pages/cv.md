@@ -11,16 +11,13 @@ redirect_from:
 
 For a more comprehensive overview : [LinkedIn](https://www.linkedin.com/in/thibaultprouteau/){:target="_blank"}
 
-Education
-======
-* PhD in Computer Science, Université du Mans, 2023 (expected)
-* MSc in Computer Science (NLP), Université du Mans, 2020
-* BSc in Computer Science, Université de Tours, 2018 
-* Erasmus Exchange, HAW Hamburg, 2016-2017
-
 Research experience
 ======
-* PhD Candidate and Teacher Assistant 2020-2023 (expected)
+* Posdoctoral fellow
+  * Université de Lorraine, LORIA (CNRS)
+  * Topic models, interpretble representations, mono and multidocument summarization
+
+* PhD Candidate (2020-2023) and Teaching and Research Fellow 2023-2024 
 	* Université du Mans
 	* Sparse and interpretable embeddings methods based on graphs
 
@@ -38,7 +35,12 @@ Research experience
   * Ambacia Consulting
   * Build data analysis dashboards from Insurrance Company data
 
- 
+ Education
+======
+* PhD in Computer Science, Université du Mans, 2024
+* MSc in Computer Science (NLP), Université du Mans, 2020
+* BSc in Computer Science, Université de Tours, 2018 
+* Erasmus Exchange, HAW Hamburg, 2016-2017
 
 
 Languages
