@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
+</script>
+
+
 {% include base_path %}
 
 For a more comprehensive overview : [LinkedIn](https://www.linkedin.com/in/thibaultprouteau/){:target="_blank"}
@@ -57,7 +64,7 @@ Publications
 {% endfor %}</ul> -->
 
 <div class="row">
-<iframe width="100%" height="100%" frameBorder="0" src='https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=thibault-prouteau&CB_ref_biblio=oui&CB_Resume_court=oui&CB_typdoc=oui&CB_audience=oui&CB_vignette=oui&langue=Anglais&tri_exp=typdoc&tri_exp2=date_publi&tri_exp3=date_publi&tri_exp4=audience&ordre_aff=AT&Fen=Aff&css=../css/VisuCondenseSsCadre.css'></iframe></div>
+<iframe width="100%" height="500px" onload="resizeIframe(this)" frameBorder="0" src='https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=thibault-prouteau&CB_ref_biblio=oui&CB_Resume_court=oui&CB_typdoc=oui&CB_audience=oui&CB_vignette=oui&langue=Anglais&tri_exp=typdoc&tri_exp2=date_publi&tri_exp3=date_publi&tri_exp4=audience&ordre_aff=AT&Fen=Aff&css=../css/VisuCondenseSsCadre.css'></iframe></div>
 
 <!---Talks
 ======
