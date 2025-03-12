@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thibault Prouteau"
 title_separator          : "-"
 name                     : &name "Thibault Prouteau"
-description              : &description "PhD Student at Université du Mans (LIUM)"
+description              : &description "Postdoctoral fellow @ LORIA (CNRS). I work on interpretable representations in NLP and complex networks."
 url                      : https://thibaultprouteau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thibaultprouteau/thibaultprouteau.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Thibault Prouteau"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
-  location         : "Le Mans"
-  employer         : #"LIUM"
+  bio              : "Postdoctoral fellow @ LORIA (CNRS). I work on interpretable representations in NLP and complex networks." #"Your biography for the left-hand sidebar"
+  location         : "Nancy"
+  employer         : "CNRS" #"LIUM"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=IHcD7JQAAAAJ"
   email            : "thibault.prouteau@univ-lemans.fr"
@@ -228,22 +228,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:

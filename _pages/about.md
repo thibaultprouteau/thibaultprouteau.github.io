@@ -19,10 +19,3 @@ Previously, I was a teaching fellow and graduated with a PhD from _Le Mans Unive
 I taught computer science as a teacher assistant in the science departement and at the ENSIM engineering school (algorithmics and programming in python, logic programming, database design and administration, NLP, or complex netwoks theory and complexity).
 
 Before my PhD, I graduated with a MSc in natural language processing (ATAL) from the University of Le Mans. I also spent a year abroad at HAW Hamburg (Hamburg University of Applied Sciences) during my BSc in computer science at _Université de Tours (Blois)_.
-
-Publications
-=====
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
