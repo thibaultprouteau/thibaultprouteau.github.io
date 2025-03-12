@@ -52,11 +52,13 @@ Languages
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+<!-- <ul>{% for post in site.publications %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul> -->
+
 <div class="row">
-<iframe width="100%" frameBorder="0" height="500px" src='https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=thibault-prouteau&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&CB_Resume_court=oui&CB_typdoc=oui&CB_audience=oui&CB_vignette=oui&langue=Anglais&tri_exp=typdoc&tri_exp2=date_publi&tri_exp3=date_publi&tri_exp4=audience&ordre_aff=AT&Fen=Aff&css=../css/styles_publicationsHAL_TypeDocSorted.css'></iframe></div>
+<iframe width="100%" frameBorder="0" height="500px" src='https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=thibault-prouteau&CB_ref_biblio=oui&CB_Resume_court=oui&CB_typdoc=oui&CB_audience=oui&CB_vignette=oui&langue=Anglais&tri_exp=typdoc&tri_exp2=date_publi&tri_exp3=date_publi&tri_exp4=audience&ordre_aff=AT&Fen=Aff&css=../css/VisuCondenseSsCadre.css'></iframe></div>
+
 <!---Talks
 ======
   <ul>{% for post in site.talks %}
