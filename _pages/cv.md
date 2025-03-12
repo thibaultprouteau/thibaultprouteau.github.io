@@ -13,25 +13,25 @@ For a more comprehensive overview : [LinkedIn](https://www.linkedin.com/in/thiba
 
 Research experience
 ======
-* Posdoctoral fellow
+* Postdoctoral fellow (2024-present)
   * Université de Lorraine, LORIA (CNRS)
   * Topic models, interpretble representations, mono and multidocument summarization
 
-* PhD Candidate (2020-2023) and Teaching and Research Fellow 2023-2024 
+* PhD Candidate (2020-2023) and Teaching and Research Fellow (2023-2024)
 	* Université du Mans
 	* Sparse and interpretable embeddings methods based on graphs
 
-* Research Intern January - July 2020
+* Research Intern (Jan.-Jul. 2020)
   * Université du Mans
   * Graph-based word embedding methods
   * Supervisor: Nicolas Dugué
  
-* Research Intern April - July 2019
+* Research Intern (Apr.-Jul. 2019)
   * Université du Mans
   * Unsupervised keyword extraction from document of the _SNCF_ prescript
   * Supervisor: Nicolas Dugué
  
-* Business Intelligence Intern April - August 2018
+* Business Intelligence Intern (Apr.-Aug. 2018)
   * Ambacia Consulting
   * Build data analysis dashboards from Insurrance Company data
 
@@ -57,7 +57,7 @@ Publications
 {% endfor %}</ul> -->
 
 <div class="row">
-<iframe width="100%" frameBorder="0" height="500px" src='https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=thibault-prouteau&CB_ref_biblio=oui&CB_Resume_court=oui&CB_typdoc=oui&CB_audience=oui&CB_vignette=oui&langue=Anglais&tri_exp=typdoc&tri_exp2=date_publi&tri_exp3=date_publi&tri_exp4=audience&ordre_aff=AT&Fen=Aff&css=../css/VisuCondenseSsCadre.css'></iframe></div>
+<iframe width="100%", height="100%", frameBorder="0" src='https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=thibault-prouteau&CB_ref_biblio=oui&CB_Resume_court=oui&CB_typdoc=oui&CB_audience=oui&CB_vignette=oui&langue=Anglais&tri_exp=typdoc&tri_exp2=date_publi&tri_exp3=date_publi&tri_exp4=audience&ordre_aff=AT&Fen=Aff&css=../css/VisuCondenseSsCadre.css'></iframe></div>
 
 <!---Talks
 ======
