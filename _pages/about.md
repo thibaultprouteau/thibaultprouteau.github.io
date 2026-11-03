@@ -12,7 +12,9 @@ redirect_from:
 Biography
 =====
 
-I am currently a postdoctoral fellow in the **MosAIk** team of **LORIA (CNRS)** in Nancy. My work focuses on **topic modeling**, **distributional semantics** and **complex networks**. Within these fields, I'm interested in building **interpretable** representations of words, collections of documents and graphs with a reduced footprint (**frugal**). I am part of the SUMINO project which aims at designing lightweight **mono and multidocument summarization** methods for domain-specific data using knowledge graphs.
+I am currently an Associate Professor at the computer science department of the University of Tours. I teach various subjects (algorithmics, web programming, software engineering, ML ...) in the department's bachelor and master programs and I am part of the BDTln research team at LIFAT. My work focuses on interpretable representations for data and human-focused or assisted evaluation.
+
+I was previously a postdoctoral fellow in the **MosAIk** team of **LORIA (CNRS)** in Nancy. My work focuses on **topic modeling**, **distributional semantics** and **complex networks**. Within these fields, I'm interested in building **interpretable** representations of words, collections of documents and graphs with a reduced footprint (**frugal**). I am part of the SUMINO project which aims at designing lightweight **mono and multidocument summarization** methods for domain-specific data using knowledge graphs.
 
 Previously, I was a teaching fellow and graduated with a PhD from _Le Mans Université_. I was part of the Language and Speech Technology Team of LIUM. During my thesis, entitled **_"Graphs, Words, and Communities: converging paths to interpretability with a frugal embedding framework"_**, I developed a framework to extract word and graph embeddings relying on methods from NLP and complex networks. 
 
