@@ -20,7 +20,11 @@ For a more comprehensive overview : [LinkedIn](https://www.linkedin.com/in/thiba
 
 Research experience
 ======
-* Postdoctoral fellow (2024-present)
+* Associate Professor in Computer Science (2026-present)
+	* Université de Tours, Faculté des Sciences et Techniques — LIFAT
+   	* Explainable and interpretable data representations  
+
+* Postdoctoral fellow (2024-2026)
   * Université de Lorraine, LORIA (CNRS)
   * Topic models, interpretble representations, mono and multidocument summarization
 
