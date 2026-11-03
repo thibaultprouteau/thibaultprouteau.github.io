@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thibault Prouteau"
 title_separator          : "-"
 name                     : &name "Thibault Prouteau"
-description              : &description "Postdoctoral fellow @ LORIA (CNRS). I work on interpretable representations in NLP and complex networks."
+description              : &description "Associate Professor in Computer Science @ University of Tours & LIFAT. I work on interpretable representations in NLP and complex networks."
 url                      : https://thibaultprouteau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thibaultprouteau/thibaultprouteau.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Thibault Prouteau"
   avatar           : "profile.jpeg"
-  bio              : "Postdoctoral fellow @ LORIA (CNRS). I work on interpretable representations in NLP and complex networks." #"Your biography for the left-hand sidebar"
-  location         : "Nancy"
-  employer         : "CNRS" #"LIUM"
+  bio              : "Associate Professor in Computer Science @ University of Tours & LIFAT. I work on interpretable representations in NLP and complex networks." #"Your biography for the left-hand sidebar"
+  location         : "Tours"
+  employer         : "University of Tours" #"LIUM"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=IHcD7JQAAAAJ"
   email            : "thibault.prouteau@loria.fr"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
