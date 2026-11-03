@@ -22,7 +22,7 @@ Research experience
 ======
 * Associate Professor in Computer Science (2026-present)
 	* Université de Tours, Faculté des Sciences et Techniques — LIFAT
-   	* Explainable and interpretable data representations  
+	* Explainable and interpretable data representations  
 
 * Postdoctoral fellow (2024-2026)
   * Université de Lorraine, LORIA (CNRS)
