@@ -2,7 +2,7 @@
 title: "DB administration"
 collection: teaching
 type: "Tutorials"
-permalink: /teaching/db-admin
+permalink: /teaching/databasesadministration
 venue: "Le Mans Université, Département Informatique"
 date: 2020-09-01
 location: "Le Mans, France"
